@@ -18,3 +18,7 @@
 Подсказки:
 1. Посмотреть текущий TimezoneOffset вы можете, используя объект `Date`.
 1. Можете использовать библиотеку Moment.js.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/g6bb55s7392bpre0?svg=true)](https://ci.appveyor.com/project/bel-lov/watches)
+
+## https://bel-lov.github.io/watches/
